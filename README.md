@@ -14,10 +14,8 @@ The network is a feedforward architecture consisting of the following layers:
 The neural network is trained using backpropagation, with the weights and biases of the neurons being adjusted to minimize the prediction error.
 
 ### Neural Network Diagram:
-![Small Labelled Neural Network](http://i.imgur.com/HdfentB.png)
 
 ### Model Summary:
-![Model Summary](https://github.com/aakashjhawar/handwritten-digit-recognition/blob/master/assets/model/model_summary.png)
 
 ## Getting Started
 
